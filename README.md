@@ -1,7 +1,10 @@
 # StudentJournal
 Одно из тестовых заданий.
+
 Проект нацелен на работу с xml файлом, либо с MS SQL Server с использованием Entity Framework. 
+
 В файле Views/MainWindow.xaml можно установить требуемый источник данных(тег Window.DataContext).
+
 Применяемые паттерны MVVM, Repository
 
 ТЗ:
