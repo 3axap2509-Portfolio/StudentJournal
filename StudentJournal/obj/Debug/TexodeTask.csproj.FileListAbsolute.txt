@@ -1,0 +1,59 @@
+D:\УЧЁБА\Стороннее\TexodeTask\TexodeTask\bin\Debug\TexodeTask.exe.config
+D:\УЧЁБА\Стороннее\TexodeTask\TexodeTask\bin\Debug\TexodeTask.exe
+D:\УЧЁБА\Стороннее\TexodeTask\TexodeTask\bin\Debug\TexodeTask.pdb
+D:\УЧЁБА\Стороннее\TexodeTask\TexodeTask\obj\Debug\View\MainWindow.g.cs
+D:\УЧЁБА\Стороннее\TexodeTask\TexodeTask\obj\Debug\App.g.cs
+D:\УЧЁБА\Стороннее\TexodeTask\TexodeTask\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\УЧЁБА\Стороннее\TexodeTask\TexodeTask\obj\Debug\TexodeTask_MarkupCompile.cache
+D:\УЧЁБА\Стороннее\TexodeTask\TexodeTask\obj\Debug\TexodeTask_MarkupCompile.lref
+D:\УЧЁБА\Стороннее\TexodeTask\TexodeTask\obj\Debug\View\MainWindow.baml
+D:\УЧЁБА\Стороннее\TexodeTask\TexodeTask\obj\Debug\TexodeTask.g.resources
+D:\УЧЁБА\Стороннее\TexodeTask\TexodeTask\obj\Debug\TexodeTask.Properties.Resources.resources
+D:\УЧЁБА\Стороннее\TexodeTask\TexodeTask\obj\Debug\TexodeTask.csproj.GenerateResource.cache
+D:\УЧЁБА\Стороннее\TexodeTask\TexodeTask\obj\Debug\TexodeTask.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\Стороннее\TexodeTask\TexodeTask\obj\Debug\TexodeTask.exe
+D:\УЧЁБА\Стороннее\TexodeTask\TexodeTask\obj\Debug\TexodeTask.pdb
+D:\УЧЁБА\Стороннее\TexodeTask\TexodeTask\obj\Debug\TexodeTask.csprojAssemblyReference.cache
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\bin\Debug\TexodeTask.exe.config
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\bin\Debug\TexodeTask.exe
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\bin\Debug\TexodeTask.pdb
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\obj\Debug\TexodeTask.csprojAssemblyReference.cache
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\obj\Debug\View\MainWindow.g.cs
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\obj\Debug\App.g.cs
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\obj\Debug\TexodeTask_MarkupCompile.cache
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\obj\Debug\TexodeTask_MarkupCompile.lref
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\obj\Debug\View\MainWindow.baml
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\obj\Debug\TexodeTask.g.resources
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\obj\Debug\TexodeTask.Properties.Resources.resources
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\obj\Debug\TexodeTask.csproj.GenerateResource.cache
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\obj\Debug\TexodeTask.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\obj\Debug\TexodeTask.exe
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\obj\Debug\TexodeTask.pdb
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\bin\Debug\EntityFramework.dll
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\bin\Debug\EntityFramework.xml
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Zahar\Desktop\TexodeTask\TexodeTask\obj\Debug\TexodeTask.csproj.CopyComplete
+D:\In searching of work\TexodeTask\TexodeTask\bin\Debug\TexodeTask.exe.config
+D:\In searching of work\TexodeTask\TexodeTask\bin\Debug\TexodeTask.exe
+D:\In searching of work\TexodeTask\TexodeTask\bin\Debug\TexodeTask.pdb
+D:\In searching of work\TexodeTask\TexodeTask\bin\Debug\EntityFramework.dll
+D:\In searching of work\TexodeTask\TexodeTask\bin\Debug\EntityFramework.SqlServer.dll
+D:\In searching of work\TexodeTask\TexodeTask\bin\Debug\EntityFramework.xml
+D:\In searching of work\TexodeTask\TexodeTask\bin\Debug\EntityFramework.SqlServer.xml
+D:\In searching of work\TexodeTask\TexodeTask\bin\Debug\ru\EntityFramework.resources.dll
+D:\In searching of work\TexodeTask\TexodeTask\obj\Debug\View\MainWindow.g.cs
+D:\In searching of work\TexodeTask\TexodeTask\obj\Debug\App.g.cs
+D:\In searching of work\TexodeTask\TexodeTask\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\In searching of work\TexodeTask\TexodeTask\obj\Debug\TexodeTask_MarkupCompile.cache
+D:\In searching of work\TexodeTask\TexodeTask\obj\Debug\TexodeTask_MarkupCompile.lref
+D:\In searching of work\TexodeTask\TexodeTask\obj\Debug\View\MainWindow.baml
+D:\In searching of work\TexodeTask\TexodeTask\obj\Debug\TexodeTask.g.resources
+D:\In searching of work\TexodeTask\TexodeTask\obj\Debug\TexodeTask.Properties.Resources.resources
+D:\In searching of work\TexodeTask\TexodeTask\obj\Debug\TexodeTask.csproj.GenerateResource.cache
+D:\In searching of work\TexodeTask\TexodeTask\obj\Debug\TexodeTask.csproj.CopyComplete
+D:\In searching of work\TexodeTask\TexodeTask\obj\Debug\TexodeTask.exe
+D:\In searching of work\TexodeTask\TexodeTask\obj\Debug\TexodeTask.pdb
+D:\In searching of work\TexodeTask\TexodeTask\obj\Debug\TexodeTask.csprojAssemblyReference.cache

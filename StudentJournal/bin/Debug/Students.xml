@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Students>
+  <Student Id="0">
+    <FirstName>Robert</FirstName>
+    <Last>Jarman</Last>
+    <Age>16</Age>
+    <Gender>0</Gender>
+  </Student>
+  <Student Id="6">
+    <FirstName>Анна</FirstName>
+    <Last>Говорухина</Last>
+    <Age>20</Age>
+    <Gender>1</Gender>
+  </Student>
+  <Student Id="7">
+    <FirstName>Александр</FirstName>
+    <Last>Иванов</Last>
+    <Age>20</Age>
+    <Gender>0</Gender>
+  </Student>
+  <Student Id="8">
+    <FirstName>Захар</FirstName>
+    <Last>Сушко</Last>
+    <Age>20</Age>
+    <Gender>0</Gender>
+  </Student>
+</Students>
